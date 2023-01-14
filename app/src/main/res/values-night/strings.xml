@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="roll">Roll</string>
+    <string name="dice_image">dice_image</string>
+    <string name="_1">1</string>
 </resources>
